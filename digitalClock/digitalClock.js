@@ -19,4 +19,4 @@ function run(){
     clock.innerHTML=`${hrs} : ${min} : ${sec} : ${txt}`;
 }
 run()
-setInterval(run,1000)
+setInterval(run,1000);
